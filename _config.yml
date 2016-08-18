@@ -1,4 +1,3 @@
-layout_spectrum: 0.5039128381758928
 typography_spectrum: 0.47520238952711225
 color:
   brandStrength: 0.800065117655322
@@ -11,4 +10,6 @@ color:
     - '#FABB00'
     - '#2A2A2A'
     - '#B4B4B4'
+layout_spectrum: 0.5039128381758928
 name: blackangusmedia
+title: La puissance de la programmatique au service de vos stratégies média
