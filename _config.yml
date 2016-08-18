@@ -1,0 +1,14 @@
+layout_spectrum: 0.5039128381758928
+typography_spectrum: 0.47520238952711225
+color:
+  brandStrength: 0.800065117655322
+  lightness: 0.2862208189908415
+  saturation: 0.5703002610243857
+  rhythmicContrast: 0.5380071743857116
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: blackangusmedia
